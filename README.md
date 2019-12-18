@@ -1,2 +1,2 @@
 # Python
-Here are some simple python functions. These functions perform simple mathematical tasks.
+Here I have some simple python functions that perform simple mathematical tasks.
