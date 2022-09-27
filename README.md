@@ -1,2 +1,2 @@
 # Python
-Here I have some simple python functions that perform simple mathematical tasks.
+Here I have some simple python functions that that computes the overtime pay of workers.
